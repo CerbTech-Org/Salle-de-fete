@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4b2209e.css",
+    "main.js": "/static/js/main.62612d69.js",
+    "static/js/453.84f9cbba.chunk.js": "/static/js/453.84f9cbba.chunk.js",
+    "static/media/woman_with_glass.png": "/static/media/woman_with_glass.2edea6b3629f88fd3939.png",
+    "static/media/gift.jpeg": "/static/media/gift.e2e1802632a86a6117ed.jpeg",
+    "static/media/Party.jpeg": "/static/media/Party.8a26bc71c5d1e5b054a8.jpeg",
+    "static/media/Chair.jpeg": "/static/media/Chair.d6791c3468d4e7631d84.jpeg",
+    "static/media/hall.jpeg": "/static/media/hall.96e71878ae5d6a5b35a7.jpeg",
+    "static/media/Parking.jpeg": "/static/media/Parking.23fb5f014d9ae4f22984.jpeg",
+    "static/media/DJ.jpeg": "/static/media/DJ.5eea50b5efe5cdf49ceb.jpeg",
+    "static/media/Security.jpeg": "/static/media/Security.a49538115142fa66bd4d.jpeg",
+    "static/media/Cooks.jpeg": "/static/media/Cooks.2878141426e48118d45e.jpeg",
+    "static/media/Hotel.jpeg": "/static/media/Hotel.e3e8e3bd9660b1680e0a.jpeg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/noir2.png": "/static/media/noir2.898053c4e7c039e5cd65.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.a4b2209e.css.map": "/static/css/main.a4b2209e.css.map",
+    "main.62612d69.js.map": "/static/js/main.62612d69.js.map",
+    "453.84f9cbba.chunk.js.map": "/static/js/453.84f9cbba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4b2209e.css",
+    "static/js/main.62612d69.js"
+  ]
+}
